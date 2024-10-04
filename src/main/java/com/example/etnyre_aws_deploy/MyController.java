@@ -16,3 +16,4 @@ public class MyController {
         return "Second message from AWS Ecs";
     }
 }
+
