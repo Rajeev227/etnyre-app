@@ -1,4 +1,4 @@
-package com.example.etnyre_aws_deploy;
+package com.etnyre.telematics;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

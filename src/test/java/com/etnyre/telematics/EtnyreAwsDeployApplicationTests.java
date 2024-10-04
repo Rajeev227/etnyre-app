@@ -1,4 +1,4 @@
-package com.example.etnyre_aws_deploy;
+package com.etnyre.telematics;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
