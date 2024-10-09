@@ -43,6 +43,6 @@ public class UsersController {
     }
     @GetMapping("/message")
     public String getMessage() {
-        return "Second message from AWS Ecs";
+        return "Hi praveen";
     }
 }
